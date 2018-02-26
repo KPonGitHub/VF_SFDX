@@ -1,14 +1,21 @@
-<apex:page standardController="Opportunity" recordSetVar="opps" extensions="selectedSizeWorkaround">
+<apex:page standardController="Opportunity" recordSetVar="opps">
     <apex:form>
         <apex:pageBlock mode="edit">
+            <apex:pageBlockButtons>
+                <apex:commandButton action="{!save}" value="Save" />
+                <apex:commandButton action="{!cancel}" value="Cancel" />
+            </apex:pageBlockButtons>
             <apex:pageBlockSection>
-                <apex:pageBlockButtons>
-                    <apex:commandButton action="{!save}" value="Save" />
-                    <apex:commandButton action="{!cancel}" value="Cancel" />
-                </apex:pageBlockButtons>
                 <apex:pageBlockTable value="{!selected}" var="o">
-                    <apex:column value="{!o.stagename}" />
-                    <apex:column value="{!o.closedate}" />
+                    <apex:column>
+                        <apex:outputField value="{!o.name}" />
+                    </apex:column>
+                    <apex:column>
+                        <apex:inputField value="{!o.stagename}" />
+                    </apex:column>
+                    <apex:column>
+                        <apex:inputField value="{!o.closedate}" />
+                    </apex:column>
                 </apex:pageBlockTable>
             </apex:pageBlockSection>
         </apex:pageBlock>
