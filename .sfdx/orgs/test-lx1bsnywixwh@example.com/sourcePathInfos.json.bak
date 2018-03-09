@@ -5,7 +5,7 @@
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1519334287190,
+            "modifiedTime": 1520253149332,
             "changeTime": 1519334287190,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -35,9 +35,9 @@
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1519640449587,
-            "changeTime": 1519640449587,
-            "contentHash": "96a18a1cba89d83e5b75b8b0ffeaaeeda56b3a3b",
+            "modifiedTime": 1520253179374,
+            "changeTime": 1520253179374,
+            "contentHash": "a4243060453ce7c6eb98cca07c753a560f37a264",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -584,9 +584,9 @@
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\objects\\Opportunity\\webLinks",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1519640449588,
-            "changeTime": 1519640449588,
-            "contentHash": "e343013c85f95e43cc133ee76181a67377e51ca2",
+            "modifiedTime": 1520252512735,
+            "changeTime": 1520252512735,
+            "contentHash": "7b01c2cd1651f99ca48a79ccec63bf3a11b33297",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -646,14 +646,14 @@
     [
         "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\oppEditStageAndCloseDate.page",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\oppEditStageAndCloseDate.page",
             "isDirectory": false,
+            "size": 970,
+            "modifiedTime": 1519644276159,
+            "changeTime": 1519644276159,
+            "contentHash": "666106edf1ef947cba0edc1a20c76ab648cab50d",
             "isMetadataFile": false,
-            "size": 838,
-            "modifiedTime": 1519644236023,
-            "changeTime": 1519644236023,
-            "contentHash": "395d107fd1edbc803678508f541c9042fdfe4d73"
+            "state": "u"
         }
     ],
     [
@@ -667,6 +667,84 @@
             "contentHash": "4d0b09aa4d27e656c89c97ddc87a4b56fecd6495",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\Update_Stage_and_CloseDate.webLink-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\Update_Stage_and_CloseDate.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 521,
+            "modifiedTime": 1520252512737,
+            "changeTime": 1520252512737,
+            "contentHash": "2927b040c2999b92637cda218e734494009018fb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\editMode.component-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\editMode.component-meta.xml",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1520253179377,
+            "changeTime": 1520253179377,
+            "contentHash": "717d2b6ec74757eeedcb97d90d11dd76db777347",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\editMode.component",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\editMode.component",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1520253179380,
+            "changeTime": 1520253179380,
+            "contentHash": "07ad1324c9c72b380476624f005593ba711b5eda",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520253226030,
+            "changeTime": 1520253226030,
+            "contentHash": "5897e9122bf5fbbc818837fd4b3b63dc44370c07"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 242,
+            "modifiedTime": 1520253334622,
+            "changeTime": 1520253334622,
+            "contentHash": "2afaf27d57931f85a376a3e9fb5660ccfab9ca35"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1520253226031,
+            "changeTime": 1520253226031,
+            "contentHash": "e2f6139d31d2a77a8bba3f53ee71cb06a8d25d66"
         }
     ]
 ]

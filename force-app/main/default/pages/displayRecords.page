@@ -1,0 +1,3 @@
+<apex:page>
+    <c:displayRecDetail record="Jamba" />
+</apex:page>
