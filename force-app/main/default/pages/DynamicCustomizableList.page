@@ -1,0 +1,25 @@
+<apex:page standardController="Account" recordSetVar="accountList" extensions="DynamicCustomizableListHandler">
+    <br/>
+    <apex:form>
+        <apex:pageBlock>
+            <apex:outputLabel value="Select Accounts View:" for="viewsList" />
+            <apex:selectList id="viewsList" size="1" value="{!filterId}">
+                <apex:actionSupport event="onchange" reRender="theTable" />
+                <apex:selectOptions value="{!listViewOptions}" />
+            </apex:selectList>
+        </apex:pageBlock>
+        <apex:pageBlock title="Accounts" mode="edit">
+            <apex:pageMessages />
+            <apex:panelGroup id="theTable">
+                <apex:pageBlockTable value="{!accountList}" var="a">
+                    <apex:column value="{!a.Name}" />
+                    <apex:repeat value="{!displayFields}" var="f">
+                        <apex:column value="{!a[f]}" />
+                    </apex:repeat>
+                </apex:pageBlockTable>
+            </apex:panelGroup>
+        </apex:pageBlock>
+        <br/>
+        <apex:commandButton value="Customize List" action="{!customize}" />
+    </apex:form>
+</apex:page>

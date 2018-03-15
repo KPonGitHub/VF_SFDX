@@ -6,7 +6,7 @@
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1520253149332,
-            "changeTime": 1519334287190,
+            "changeTime": 1520253149332,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
             "state": "u",
@@ -39,7 +39,9 @@
             "changeTime": 1520253179374,
             "contentHash": "a4243060453ce7c6eb98cca07c753a560f37a264",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -63,9 +65,9 @@
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1519641293009,
-            "changeTime": 1519641293009,
-            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "modifiedTime": 1520898395649,
+            "changeTime": 1520898395649,
+            "contentHash": "4f9b330d0f859e369beef62fe9e79768a1a767d6",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
@@ -81,7 +83,9 @@
             "changeTime": 1519334322270,
             "contentHash": "63aa7625a472d70b4721e18da8530268ca0b80dd",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -94,7 +98,9 @@
             "changeTime": 1519337516261,
             "contentHash": "0b3a4fa6c98c58a309158e30d4f474704104eebe",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -107,7 +113,9 @@
             "changeTime": 1519334322311,
             "contentHash": "db7234b82aae6df73c911c2f64b9f63de5998b4b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -120,7 +128,9 @@
             "changeTime": 1519334322314,
             "contentHash": "150a9c9e5e83e876e9b5313f35ed10f16f0f1efc",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -133,7 +143,9 @@
             "changeTime": 1519334322320,
             "contentHash": "3b0dc7b6762c73ea8e74ad49f2fe3ae0faedb03d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -146,7 +158,9 @@
             "changeTime": 1519338789220,
             "contentHash": "5d97d761fc5719dd90b446fbc23c5e840579f449",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -159,7 +173,9 @@
             "changeTime": 1519334322330,
             "contentHash": "41700306bedf2f3969ae8767eb28df5a2b60aa96",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -172,7 +188,9 @@
             "changeTime": 1519338844158,
             "contentHash": "84622fbd2a1c3384a2a36958270089e1e0e722bc",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -185,7 +203,9 @@
             "changeTime": 1519334322343,
             "contentHash": "0b79fc1a2868a340fc5340b8366899497e89da8d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -198,7 +218,9 @@
             "changeTime": 1519334322346,
             "contentHash": "5833d74c4324f99b40ac3aaa51eddc166000ebf3",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -211,7 +233,9 @@
             "changeTime": 1519334322361,
             "contentHash": "d6a3a927743b0d79c46034c6bad976bccaba7cce",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -224,7 +248,9 @@
             "changeTime": 1519334322369,
             "contentHash": "84016bd12773aae2340e6057aede8139cb16f930",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -237,7 +263,9 @@
             "changeTime": 1519334322374,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -250,7 +278,9 @@
             "changeTime": 1519338202004,
             "contentHash": "e21436929e08eebe560bf5b8beb387243d7f32a2",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -263,7 +293,9 @@
             "changeTime": 1519334322383,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -276,7 +308,9 @@
             "changeTime": 1519334322384,
             "contentHash": "c30378a8ff9174f17a73c59a7062639af4cdd13c",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -285,11 +319,12 @@
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1519643384067,
-            "changeTime": 1519643384067,
-            "contentHash": "52ed63b69ecee9e4df69e783161e7b1a54434abd",
+            "modifiedTime": 1520901439653,
+            "changeTime": 1520901439653,
+            "contentHash": "b757943fa96aa158eb90c3d0004a7d9a290ce787",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -302,7 +337,9 @@
             "changeTime": 1519334322360,
             "contentHash": "3d319619ca3379846490dea0866cbfc7873719b4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -315,7 +352,9 @@
             "changeTime": 1519334322368,
             "contentHash": "f5dc48fcc66883891148f6e2c56c81df626e5a5c",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -324,11 +363,13 @@
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1519640449615,
-            "changeTime": 1519640449615,
-            "contentHash": "311716a4f90d57d88848e8150750670f57bec4a6",
+            "modifiedTime": 1520898267624,
+            "changeTime": 1520898267624,
+            "contentHash": "f92e00393d85be5f658c3575d977f1cd445bbee0",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -341,7 +382,9 @@
             "changeTime": 1519341949714,
             "contentHash": "02e9461d2ec44121bd07fb7061df52eef6123956",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -354,7 +397,9 @@
             "changeTime": 1519341946301,
             "contentHash": "5ea6e1636fd823a3b0e133fe2918fd61f8c98cf4",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -367,7 +412,9 @@
             "changeTime": 1519341913531,
             "contentHash": "e5b7ac79d8520be13ed698546bd10e01d3f1ebaa",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -380,7 +427,9 @@
             "changeTime": 1519341909691,
             "contentHash": "05e963dbdac83dbe78a30d0707f23b13c6fea14e",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -390,10 +439,12 @@
             "isDirectory": false,
             "size": 1451,
             "modifiedTime": 1519640420876,
-            "changeTime": 1519344372503,
+            "changeTime": 1519640420876,
             "contentHash": "99708252e9f89919942cdd70093f466373d173de",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -406,7 +457,9 @@
             "changeTime": 1519343006606,
             "contentHash": "8829331b026aa48505a925848b16972a3f961c58",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -419,7 +472,9 @@
             "changeTime": 1519342894064,
             "contentHash": "8c4df174211c51caa55c89789d3db54d08838f3a",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -432,7 +487,9 @@
             "changeTime": 1519342624174,
             "contentHash": "dd449ceb163b4509dbb8ad1fe55bbf75527e9178",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -445,7 +502,9 @@
             "changeTime": 1519640449564,
             "contentHash": "6b1ffcab1ddb3a56459cd67d3af685ed527c51c5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -458,7 +517,9 @@
             "changeTime": 1519640449567,
             "contentHash": "7d1ec81ba3e3f3b0183cfecde3d5a1113265b0cd",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -471,7 +532,9 @@
             "changeTime": 1519640449572,
             "contentHash": "54a72611f2f51cbe95526470803e50dd378cd4fa",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -484,7 +547,9 @@
             "changeTime": 1519640449574,
             "contentHash": "1487a77fc0cb80445f4e08f8e4f345d18179a8fd",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -497,7 +562,9 @@
             "changeTime": 1519640449578,
             "contentHash": "94be572a2fe1f4c48f18a22ff0b9fd1a2404b0ff",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -510,7 +577,9 @@
             "changeTime": 1519640449579,
             "contentHash": "1b12f9090b6a9288c7646ddfbfd52a75982decb8",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -523,7 +592,9 @@
             "changeTime": 1519640449589,
             "contentHash": "be24b69d1c60df65ebddc3c6fe85ce21238afcd3",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -536,7 +607,9 @@
             "changeTime": 1519640449609,
             "contentHash": "722a09285fc607cb3e267da82d4f952dc8a0b178",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -549,7 +622,9 @@
             "changeTime": 1519640449610,
             "contentHash": "ac0060027485b388f0504441ce43e10ba9fb9dc6",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -562,7 +637,9 @@
             "changeTime": 1519640449614,
             "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -575,7 +652,9 @@
             "changeTime": 1519640449616,
             "contentHash": "e9b7c5a36c10690500ac7c775ee7549d594f68cf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -588,7 +667,9 @@
             "changeTime": 1520252512735,
             "contentHash": "7b01c2cd1651f99ca48a79ccec63bf3a11b33297",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -601,7 +682,9 @@
             "changeTime": 1519640449588,
             "contentHash": "54c7932f6203c017f697bc83d61b9108f1db1d8d",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -614,7 +697,9 @@
             "changeTime": 1519640449607,
             "contentHash": "912ca121a3c60b59d823092e9a1508267ec42665",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -627,7 +712,9 @@
             "changeTime": 1519640449610,
             "contentHash": "e074d6910129e5577c12a14ae9cd6fb0fc882f4b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -640,7 +727,9 @@
             "changeTime": 1519640449608,
             "contentHash": "01e62e8f969d1224b9785ce9509e9b90b753394f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -653,7 +742,9 @@
             "changeTime": 1519644276159,
             "contentHash": "666106edf1ef947cba0edc1a20c76ab648cab50d",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -666,7 +757,9 @@
             "changeTime": 1519643384068,
             "contentHash": "4d0b09aa4d27e656c89c97ddc87a4b56fecd6495",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -679,7 +772,9 @@
             "changeTime": 1520252512737,
             "contentHash": "2927b040c2999b92637cda218e734494009018fb",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -692,7 +787,9 @@
             "changeTime": 1520253179377,
             "contentHash": "717d2b6ec74757eeedcb97d90d11dd76db777347",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -705,46 +802,168 @@
             "changeTime": 1520253179380,
             "contentHash": "07ad1324c9c72b380476624f005593ba711b5eda",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520253226030,
             "changeTime": 1520253226030,
-            "contentHash": "5897e9122bf5fbbc818837fd4b3b63dc44370c07"
+            "contentHash": "5897e9122bf5fbbc818837fd4b3b63dc44370c07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 242,
             "modifiedTime": 1520253334622,
             "changeTime": 1520253334622,
-            "contentHash": "2afaf27d57931f85a376a3e9fb5660ccfab9ca35"
+            "contentHash": "2afaf27d57931f85a376a3e9fb5660ccfab9ca35",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\components\\displayRecDetail.component-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1520253226031,
             "changeTime": 1520253226031,
-            "contentHash": "e2f6139d31d2a77a8bba3f53ee71cb06a8d25d66"
+            "contentHash": "e2f6139d31d2a77a8bba3f53ee71cb06a8d25d66",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\displayRecords.page",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\displayRecords.page",
+            "isDirectory": false,
+            "size": 66,
+            "modifiedTime": 1520253483041,
+            "changeTime": 1520253483041,
+            "contentHash": "f359806441f42d3b2df23f833c739be7fecfce5c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\displayRecords.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\displayRecords.page-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520253406635,
+            "changeTime": 1520253406635,
+            "contentHash": "ad1f25bf52ce5bc9645593672deba54c0c75eae5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\CustomizeDynamicList.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\CustomizeDynamicList.page-meta.xml",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1520898225614,
+            "changeTime": 1520898225614,
+            "contentHash": "84680f426947e1fecf18358e3843039e6b75b867",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\CustomizeDynamicList.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\CustomizeDynamicList.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1206,
+            "modifiedTime": 1521126765960,
+            "changeTime": 1521126765960,
+            "isWorkspace": false,
+            "contentHash": "dd517474b0886d8cfed5cceab9130a3d9411da61"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\classes\\DynamicCustomizableListHandler.cls",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\classes\\DynamicCustomizableListHandler.cls",
+            "isDirectory": false,
+            "size": 2729,
+            "modifiedTime": 1520902072696,
+            "changeTime": 1520902072696,
+            "contentHash": "50c883a7091128c00a07f8c17338896e9be4ca7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\classes\\DynamicCustomizableListHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\classes\\DynamicCustomizableListHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1520898267625,
+            "changeTime": 1520898267625,
+            "contentHash": "efb88b17d188ef895949b0772b489758dd51e1e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\DynamicCustomizableList.page",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\DynamicCustomizableList.page",
+            "isDirectory": false,
+            "size": 1143,
+            "modifiedTime": 1520902017327,
+            "changeTime": 1520902017327,
+            "contentHash": "57547775349d261dadd50bf748db9d96bf77aa7a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\DynamicCustomizableList.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\karthik.pamaraju\\Documents\\sfdx_projects\\VF_Scratch_Org\\vf_scratch_org\\force-app\\main\\default\\pages\\DynamicCustomizableList.page-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1520901439656,
+            "changeTime": 1520901439656,
+            "contentHash": "bf790a8d625f62267635131b0804460382f33650",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
